@@ -1,3 +1,4 @@
+[![English](https://img.shields.io/badge/English%20version-Available-brightgreen.svg)](https://github.com/vicenteparmi/vicenteparmi/blob/main/README_EN.md)
 ![](https://komarev.com/ghpvc/?username=vicenteparmi&color=006bed)
 
 ## 👋 Olá, sou o Vicente!
