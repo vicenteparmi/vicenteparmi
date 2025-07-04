@@ -3,18 +3,16 @@
 
 ## 👋 Olá, sou o Vicente!
 
-Sou um **desenvolvedor web e mobile**, buscando criar soluções digitais inovadoras. Atualmente, sou estudante do último período de Química na Universidade Federal do Paraná, mas tenho também como foco o desenvolvimento de aplicativos e sites utilizando tecnologias como Flutter e Vue.
+Sou um **desenvolvedor web e mobile**, com experiência em Flutter, iOS e mais. Sou Bacharel em Química pela Universidade Federal do Paraná, sou aluno na Apple Developer Academy na PUCPR, um programa que combina desenvolvimento de aplicativos, design e empreendedorismo com foco em inovação e resolução de problemas. Também curso no momento Licenciatura em Química na UFPR.
 
-Tenho experiência na criação de projetos completos, desde a concepção da ideia até a publicação, como o CampusDine, um aplicativo que desenvolvi para facilitar a vida dos estudantes universitários. Além disso, trabalho em parceria com empresas para desenvolver soluções personalizadas para suas necessidades.
-
-Sou um entusiasta da tecnologia e estou sempre aprendendo novas ferramentas e técnicas para aprimorar minhas habilidades. Gosto de desafios e busco constantemente me superar. 
+Tenho experiência na criação de projetos completos, desde a concepção da ideia até a publicação, como o CampusDine, um aplicativo que desenvolvi para facilitar o acesso à informações do RU para estudantes universitários. Além disso, trabalhei em parceria com indivíduos para desenvolver soluções personalizadas para suas necessidades.
 
 **Meus interesses:**
 
-* Desenvolvimento de aplicativos mobile com Flutter
-* Criação de interfaces web e mobile modernas
-* Arquitetura de software e boas práticas de desenvolvimento
+* Desenvolvimento de aplicativos mobile com Flutter e Swift (iOS)
+* Criação de plataformas web
 * Um pouco de aprendizado de máquina e inteligência artificial
+* Design, UX e UI
 
 ## 🚀 Minhas Skills
 
@@ -29,6 +27,7 @@ Sou um entusiasta da tecnologia e estou sempre aprendendo novas ferramentas e t�
 [![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)]()
 [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)]()
 [![WebAssembly](https://img.shields.io/badge/-WebAssembly-333333?style=flat&logo=webassembly)]()
+[![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)]()
 
 **Frameworks e Bibliotecas:**
 
@@ -54,6 +53,7 @@ Sou um entusiasta da tecnologia e estou sempre aprendendo novas ferramentas e t�
 **Mobile e Plataformas:**
 
 [![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)]()
+[![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)]()
 [![Google Play](https://img.shields.io/badge/-Google%20Play-333333?style=flat&logo=google-play)]()
 [![Google AdMob](https://img.shields.io/badge/-Google%20AdMob-333333?style=flat&logo=google-admob)]()
 [![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google-analytics)]()
@@ -89,10 +89,10 @@ Sou um entusiasta da tecnologia e estou sempre aprendendo novas ferramentas e t�
 
 ## 📫 Contato
 
+[![Website Badge](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://vicx.dev.br)](https://vicx.dev.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicenteparmi)](https://www.linkedin.com/in/vicenteparmi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vicenteparmigiani@gmail.com)](mailto:vicenteparmigiani@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/vicenteparmi)](https://github.com/vicenteparmi)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vicenteparmi)](https://twitter.com/vicenteparmi)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vicenteparmi)](https://instagram.com/vicenteparmi)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/vicenteparmi)](https://youtube.com/@vicenteparmi)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-1de9b6?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/vicenteparmi)](https://linktr.ee/vicenteparmi)
